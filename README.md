@@ -26,7 +26,7 @@ Administrator - This mashup is an example of an Administrator page menu with a s
 The building block latest release 1.1 has been developed on the Thingworx 9.6.0-b85 version.  
 
 # Authors
-C. de Wit (Ginus) - cginus @ ptc.com
+C. de Wit  - cginus @ ptc.com
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.

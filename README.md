@@ -1,5 +1,5 @@
 # IOTCommonMashups
-A building block created to inspire and provide examples of commonly used mashups.
+A building block created to inspire and provide examples of common use cases in an IoT application.
 
 # Overview 
 IOT Common Mashups is a building block created to inspire and provide examples of commonly used mashups that match with the PTC Product designs. The mashups follow PTC’s own design system, the Convergence Design System (CDS), to ensure consistency and quality within the PTC Products and to make the design and development process more efficient and cohesive.  
@@ -23,8 +23,7 @@ Form - This mashup is an example of a form. The mashup contains commonly used in
 
 Administrator - This mashup is an example of an Administrator page menu with a search field for to filter the menu items.
 
-
-The building block has been developed initially on the ThingWorx 9.4.2 b326version.  
+The building block latest release 1.1 has been developed on the Thingworx 9.6.0-b85 version.  
 
 # Authors
 Chardee de Wit (Ginus) - cginus @ ptc.com
